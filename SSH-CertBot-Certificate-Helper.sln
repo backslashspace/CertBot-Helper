@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSH-CertBot-Certificate-Helper", "SSH-CertBot-Certificate-Helper.csproj", "{305D3D7E-DAAC-4BC9-81F0-51C2BCA3FBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305D3D7E-DAAC-4BC9-81F0-51C2BCA3FBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305D3D7E-DAAC-4BC9-81F0-51C2BCA3FBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305D3D7E-DAAC-4BC9-81F0-51C2BCA3FBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305D3D7E-DAAC-4BC9-81F0-51C2BCA3FBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F67FF63-622A-4313-8379-ADF34565CC96}
+	EndGlobalSection
+EndGlobal
