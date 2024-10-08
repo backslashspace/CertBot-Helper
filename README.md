@@ -7,5 +7,7 @@
 
 ---
 
-Written in C# - .Net Framework 4.8.1 (C# 12.0)
+SSH server cipher must be compatible with [SSH.NET](https://github.com/sshnet/SSH.NET)
 Does not need administrative privileges - must run as the same user as the nginx process in order to be able to signal a reload.
+
+Written in C# (12.0) .Net Framework v4.8.1

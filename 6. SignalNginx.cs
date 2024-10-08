@@ -11,7 +11,7 @@ namespace CertBotHelper
     {
         private static Boolean SignalNginxReload(ref Configuration configuration)
         {
-            Log.FastLog(Environment.UserName, LogSeverity.Debug, "Signal");
+            Log.FastLog("Signaling as: " + Environment.UserName, LogSeverity.Verbose, "Signal");
 
             Process nginx = new();
             nginx.StartInfo.FileName = configuration.NginxPath;
